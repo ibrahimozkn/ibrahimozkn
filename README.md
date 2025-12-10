@@ -3,7 +3,6 @@
 <p align="center">
     <a href="https://ibrahimozkan.dev">Personal Website</a> •
   <a href="https://linkedin.com/in/ibrahim-ozkan">LinkedIn</a> •
-  <a href="https://github.com/ibrahimozkn">GitHub</a> •
   <a href="mailto:ibrahim.ozkn@outlook.com">Email</a>
 </p>
 
